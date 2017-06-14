@@ -1,7 +1,5 @@
-# Edytor_M_Kerlin_J_Blaszkowski
-Projekt z Kursu C#
-EDYTOR TEKSTU
-Jako projekt postanowiliśmy stworzyć prosty edytor tekstu w języku C# w aplikacji dzięki pomocy Windows Forms. Edytor ten ma działać podobnie to Windowsowego Worda, bedzie posiadał takie fukncje jak: kopiowanie tekstu i go wklejanie, zapis/odczyt pliku, zmiana czcionki itp.
+# Simple Text Editor
+As a project we choose to do a simple editor that will be similiar to Microsofts Word
 Podział prac związanych z edytorem:
 Jan Błaszkowski:
 Nowy;
