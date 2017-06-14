@@ -17,9 +17,15 @@ Cofnij;
 Wytnij;
 ### Marek Kerlin:
 Kopiuj;
+
 Wklej;
+
 Zaznacz wszystko;
+
 Możliwość wybrania zwijania tekstu;
+
 Czcionka;
+
 Kolor tekstu;
+
 Oraz skróty tych wszystkich  funkcji w ToolBar-ze;
