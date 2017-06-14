@@ -3,11 +3,17 @@ Projekt nasz będzie prostym edytorem tekstu podobnym do Microsoftowego Worda, s
 ## Podział prac związanych z edytorem:
 ### Jan Błaszkowski:
 Nowy;
+
 Otwórz;
+
 Zapisz;
+
 Zapisz jako;
+
 Zakończ;
+
 Cofnij;
+
 Wytnij;
 ### Marek Kerlin:
 Kopiuj;
