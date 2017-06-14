@@ -1,5 +1,5 @@
 # Prosty edytor tekstu
-Projekt nasz będzie prostym edytorem tekstu podobnym do Microsoftowego Worda, skróty klawiszowe będą takie same jak w Microsoftowym odpowiedniku. Będzie równierz zawierał pasek narzędziowy dzięki czemu będzie lepszy dostęp do różnych opcji tego edytora.
+Projekt nasz będzie prostym edytorem tekstu podobnym do Microsoftowego Worda, skróty klawiszowe będą takie same jak w Microsoftowym odpowiedniku. Będzie równierz zawierał pasek narzędziowy dzięki czemu będzie lepszy dostęp do różnych opcji tego edytora. Edytor oprzemy na Windows Forms.
 ## Podział prac związanych z edytorem:
 ### Jan Błaszkowski:
 Nowy;
