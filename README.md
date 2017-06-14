@@ -1,7 +1,7 @@
-# Simple Text Editor
-As a project we choose to do a simple editor that will be similiar to Microsofts Word
-Podział prac związanych z edytorem:
-Jan Błaszkowski:
+# Prosty edytor tekstu
+Projekt nasz będzie prostym edytorem tekstu podobnym do Microsoftowego Worda, skróty klawiszowe będą takie same jak w Microsoftowym odpowiedniku. Będzie równierz zawierał pasek narzędziowy dzięki czemu będzie lepszy dostęp do różnych opcji tego edytora.
+** Podział prac związanych z edytorem: **
+### Jan Błaszkowski:
 Nowy;
 Otwórz;
 Zapisz;
@@ -9,7 +9,7 @@ Zapisz jako;
 Zakończ;
 Cofnij;
 Wytnij;
-Marek Kerlin:
+### Marek Kerlin:
 Kopiuj;
 Wklej;
 Zaznacz wszystko;
