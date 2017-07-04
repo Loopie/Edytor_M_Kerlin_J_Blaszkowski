@@ -1,0 +1,38 @@
+c:\users\c245\documents\visual studio 2010\Projects\Edytor - Jan Błaszkowski\bin\Debug\Edytor - Jan Błaszkowski.exe
+c:\users\c245\documents\visual studio 2010\Projects\Edytor - Jan Błaszkowski\bin\Debug\Edytor - Jan Błaszkowski.pdb
+c:\users\c245\documents\visual studio 2010\Projects\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor___Jan_Błaszkowski.Form1.resources
+c:\users\c245\documents\visual studio 2010\Projects\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor___Jan_Błaszkowski.Properties.Resources.resources
+c:\users\c245\documents\visual studio 2010\Projects\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.csproj.GenerateResource.Cache
+c:\users\c245\documents\visual studio 2010\Projects\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.exe
+c:\users\c245\documents\visual studio 2010\Projects\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.pdb
+H:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.exe
+H:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.pdb
+H:\Edytor - Jan Błaszkowski\bin\Debug\Edytor - Jan Błaszkowski.exe
+H:\Edytor - Jan Błaszkowski\bin\Debug\Edytor - Jan Błaszkowski.pdb
+H:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor___Jan_Błaszkowski.Form1.resources
+H:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor___Jan_Błaszkowski.Properties.Resources.resources
+H:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.csproj.GenerateResource.Cache
+G:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.exe
+G:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.pdb
+G:\Edytor - Jan Błaszkowski\bin\Debug\Edytor - Jan Błaszkowski.exe
+G:\Edytor - Jan Błaszkowski\bin\Debug\Edytor - Jan Błaszkowski.pdb
+G:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor___Jan_Błaszkowski.Form1.resources
+G:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor___Jan_Błaszkowski.Properties.Resources.resources
+G:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.csproj.GenerateResource.Cache
+G:\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.exe
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.pdb
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor - Jan Błaszkowski\bin\Debug\Edytor - Jan Błaszkowski.exe
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor - Jan Błaszkowski\bin\Debug\Edytor - Jan Błaszkowski.pdb
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor___Jan_Błaszkowski.Form1.resources
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor___Jan_Błaszkowski.Properties.Resources.resources
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor - Jan Błaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.csproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor_M_Kerlin_J_Blaszkowski\bin\Debug\Edytor_M_Kerlin_J_Blaszkowski.exe
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor_M_Kerlin_J_Blaszkowski\bin\Debug\Edytor_M_Kerlin_J_Blaszkowski.pdb
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor_M_Kerlin_J_Blaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor_M_Kerlin_J_Blaszkowski\obj\x86\Debug\Edytor_M_Kerlin_J_Blaszkowski.Form1.resources
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor_M_Kerlin_J_Blaszkowski\obj\x86\Debug\Edytor_M_Kerlin_J_Blaszkowski.Properties.Resources.resources
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor_M_Kerlin_J_Blaszkowski\obj\x86\Debug\Edytor - Jan Błaszkowski.csproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor_M_Kerlin_J_Blaszkowski\obj\x86\Debug\Edytor_M_Kerlin_J_Blaszkowski.exe
+C:\Users\Jan\Desktop\Edytor-Jan-Błaszkowski\Edytor_M_Kerlin_J_Blaszkowski\obj\x86\Debug\Edytor_M_Kerlin_J_Blaszkowski.pdb
