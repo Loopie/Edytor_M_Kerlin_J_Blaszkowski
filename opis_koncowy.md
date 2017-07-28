@@ -2,7 +2,7 @@
 
 Link do filmiku : https://www.youtube.com/watch?v=JwX51bh30ks
 
-W tym projekcie użyliśmy już wielu gotowych fukncji z Windows Forms m. in. takich jak kopiowanie, wklejanie, cofanie itd.
+W tym projekcie użyliśmy już wielu gotowych funkcji z Windows Forms m. in. takich jak kopiowanie, wklejanie, cofanie itd.
 
 Przy niektórych fukncjonalnościach musieliśmy dodać pare rzeczy od siebie takich jak przy zapisywaniu, żeby było zależne od nazwy pliku, bo jeżeli ją ma to 
 fukncja zapisywania normalnego działa inaczej i nie wymaga podawania nazwy tylko zapisuje na już nadaną nazwę pliku.
