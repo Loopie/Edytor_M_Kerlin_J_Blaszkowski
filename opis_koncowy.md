@@ -11,7 +11,7 @@ Część funkcjonalności programu jest zależna od tego czy zawartość pliku b
 jest tak np. przy otwieraniu pliku, zamykaniu programu, tworzeniu nowego pliku. Gdy w pliku było coś zmienione to program pyta się wpierw czy zapisać 
 zmiany które były w nim zrobione, czy nie zapisywać tych zmian, bądź anulować tą akcję.
 
-Zmiana czcionki, koloru czcinki jest zrobiona przy pomocy gotowych funkcji. Zmiana koloru tła jest dostępna, lecz nie zapisuje się do pliku.
+Zmiana czcionki, koloru czcionki jest zrobiona przy pomocy gotowych funkcji. Zmiana koloru tła jest dostępna, lecz nie zapisuje się do pliku.
 
 Opcje wyrównania tekstu są zrobione w ten sposób, że na 'toolbarze' może być kliknięta tylko jedna opcja i są zrobione przy pomocy funkcji 
 SelectionAlignment zależnej od zaznaczonej strefy a nie całego pliku.
